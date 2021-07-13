@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RestaurantPicker/static/css/main.23a41477.chunk.css",
+    "main.js": "/RestaurantPicker/static/js/main.ea9c4c43.chunk.js",
+    "main.js.map": "/RestaurantPicker/static/js/main.ea9c4c43.chunk.js.map",
+    "runtime-main.js": "/RestaurantPicker/static/js/runtime-main.ca9ba51e.js",
+    "runtime-main.js.map": "/RestaurantPicker/static/js/runtime-main.ca9ba51e.js.map",
+    "static/js/2.0b73758c.chunk.js": "/RestaurantPicker/static/js/2.0b73758c.chunk.js",
+    "static/js/2.0b73758c.chunk.js.map": "/RestaurantPicker/static/js/2.0b73758c.chunk.js.map",
+    "static/js/3.46818a99.chunk.js": "/RestaurantPicker/static/js/3.46818a99.chunk.js",
+    "static/js/3.46818a99.chunk.js.map": "/RestaurantPicker/static/js/3.46818a99.chunk.js.map",
+    "index.html": "/RestaurantPicker/index.html",
+    "static/css/main.23a41477.chunk.css.map": "/RestaurantPicker/static/css/main.23a41477.chunk.css.map",
+    "static/js/2.0b73758c.chunk.js.LICENSE.txt": "/RestaurantPicker/static/js/2.0b73758c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca9ba51e.js",
+    "static/js/2.0b73758c.chunk.js",
+    "static/css/main.23a41477.chunk.css",
+    "static/js/main.ea9c4c43.chunk.js"
+  ]
+}
